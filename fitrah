@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+main () {
+    int C = 30 ;
+    int hasilReamur = (4*C)/5 ;
+    int hasilFahrenheit = (9*C)/5+32 ;
+    printf("hasilReamur adalah %d", hasilReamur),
+    printf("hasilFahrenheit adalah %d", hasilFahrenheit);
+    }
